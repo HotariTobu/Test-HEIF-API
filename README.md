@@ -1,6 +1,6 @@
-# HEIF-Test
+# Test-HEIF-API
 
-`HEIF-Test` is my test project in [HEIF API](https://github.com/nokiatech/heif). I try various things in this project.
+`Test-HEIF-API` is my test project in [HEIF API](https://github.com/nokiatech/heif). I try various things in this project.
 
 ## License
 
